@@ -3,10 +3,6 @@
   "version": "0.0.1",
   "license": "MIT",
   "description": "A Vue.js scaffold for write documentation using markdown.",
-  "scripts": {
-    "docs": "cd docs && gitbook serve",
-    "docs:deploy": "bash ./deploy-docs.sh"
-  },
   "devDependencies": {
     "vue-cli": "^2.8.1"
   }
