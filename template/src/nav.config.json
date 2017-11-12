@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Title",
+    "list": [
+      {
+        "path": "/article",
+        "name": "article"
+      }
+    ]
+  }
+]
